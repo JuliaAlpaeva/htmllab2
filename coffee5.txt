@@ -1,0 +1,20 @@
+ <html>
+<head>
+<title> page </title>
+<body bgcolor="tan" text="saddlebrown">
+<h1>
+<font color="saddlebrown" size="6" >
+<i>
+Как добраться?
+</i>
+</h1>
+<h2>
+<font color="white" size="6" >
+м.Позняки
+ул.Княжий Затон 4
+
+</h2>
+</body>
+
+</head>
+</html>
